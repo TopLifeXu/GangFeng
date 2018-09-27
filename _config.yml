@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: GangFeng Blog
+SEOTitle: 钢锋的博客 | GangFeng Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: 199445172@qq.com
+description: "关于程序与设计、黑客与画家 | 钢锋，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Gangfeng钢锋 的个人博客，与你一起发现更大的世界。"
+keyword: "钢锋, GangFeng钢锋, GangFeng, 陀螺风, GangFengPro, @GangFengpro, 钢锋的博客, GangFeng Blog, 博客, 个人网站, 互联网, Android, iOS, Web, JavaScript, 前端, 设计"
+url: "https://toplifexu.github.io/GangFeng/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
